@@ -1,3 +1,15 @@
+This is a video, music and media streaming service for exclusive and controversial content. 
+With Now, artists and content creators can express their work in a free manner without being judged and victims of shadow ghosting and demonetisation. 
+As part of the charather of this app, it is legislated as a plataform that sells ficticious content. 
+We dont take any responsability in the veracity or consequence that media being exposed can carry to the general public.
+Its still an adult plataform with age restriction.
+Super explicit pornograhic or gore content is not allowed and will be subject to trial before exposure. 
+
+All rights reserved @strasbourgwebsolutions
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
